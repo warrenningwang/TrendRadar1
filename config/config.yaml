@@ -37,7 +37,7 @@ notification:
   webhooks:
     feishu_url: ""
     dingtalk_url: ""
-    wework_url: "https://qyapi.weixin.qq.com/cgi-bin/webhook/send?key=ee1f410c-11a6-490e-bf94-2bba94ed0d73"
+    wework_url: ""
     telegram_bot_token: ""
     telegram_chat_id: ""
     email_from: ""
